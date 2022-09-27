@@ -9,42 +9,13 @@
 ## FireData
 
 ## Integrantes: 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/alexandrefonseca00/">
-        <img src="https://media-exp1.licdn.com/dms/image/C4E03AQGklUF0D4eLUQ/profile-displayphoto-shrink_200_200/0/1657313485534?e=1669248000&v=beta&t=kBmF_DjFDSCVMUy2bw7jPTixyJMbI8ULHSjEwBU6U9w" width="100px;" alt="Alexandre Fonseca"/><br>
-        <sub>
-          <b>Alexandre Fonseca</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/joao-alcaraz-b36858231/">
-        <img src="Insert" width="100px;" alt="João Alcaraz"/><br>
-        <sub>
-          <b>João Alcaraz</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="Insert">
-        <img src="Insert" width="100px;" alt="Insert"/><br>
-        <sub>
-          <b>Insert</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="Insert">
-        <img src="Insert" width="100px;" alt="Insert"/><br>
-        <sub>
-          <b>Insert</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
+- <a href="https://github.com/Xandebrabe">Alexandre Fonseca de Souza</a>
+- <a href="https://github.com/brun0meira">Bruno Otavio Bezerra de Meira</a> 
+- <a href="https://github.com/HallZero">Filipi Enzo Siqueira Kikuchi</a>
+- <a href="https://github.com/gaebizinha">Gabriela de Morais da Silva</a>
+- <a href="https://github.com/joaoalca">João Pedro Sartori Garcia de Alcaraz</a>
+- <a href="https://github.com/lucasconti888">Lucas Conti Pereira</a> 
+- <a href="https://github.com/sofipimazzoni">Sofia Moreiras Pimazzoni</a> 
 
 ## 📝 Descrição
 
@@ -52,14 +23,7 @@ Curta descrição sobre o que o seu projeto faz (problema a ser resolvido e solu
 A Everymind é uma empresa certificada SalesForce que está preocupada com sua alta taxa de Turnover e possui dificuldades em analisar os motivos responsáveis pela alta rotatividade. Neste contexto, a empresa forneceu dados referentes aos colaboradores (salário, cargo, data de entrada/saída, etc.) para que possamos desenvolver um modelo preditivo de classificação capaz de identificar quais funcionários têm tendências a sair ou permanecer no trabalho.
  A solução proposta deverá ser usada como complementação do sistema atual pelo setor de RH, facilitando o processo, e como uma ferramenta de análise que possibilite a identificação de eventuais fatores que contribuem para uma demissão a fim de diagnosticá-los e contribuir para a tomada da melhor decisão possível. Consequentemente, isso será benéfico para a Everymind pois é melhor para uma empresa manter os funcionários a longo prazo. Dessa forma, serão usados dois critérios: a taxa de precisão do algoritmo e a taxa de Turnover da empresa para avaliar o desempenho da solução.
 
-## 🎨 Design
 
-É possível ver toda a identidade visual do projeto <a href="https://www.figma.com/file/1eJSbNkkqieW6CMWU0D0iE/Apresenta%C3%A7%C3%A3o-Final---FireData?node-id=0%3A1">aqui.
-
-## 📈 Proposta de valor
- 
-É possível visualizar todas as análises de mercado e personas no seguinte <a href="https://miro.com/app/board/uXjVOgCP9vw=/?share_link_id=690091260825">documento.
- 
 ## 📁 Estrutura de pastas
 
 ```
