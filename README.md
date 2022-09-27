@@ -1,23 +1,21 @@
-# Projeto1
-Projeto 1
 # Inteli - Instituto de Tecnologia e Liderança 
 
 <p align="center">
 <a href= "https://www.inteli.edu.br/"><img src="https://www.inteli.edu.br/wp-content/uploads/2021/08/20172028/marca_1-2.png" alt="Inteli - Instituto de Tecnologia e Liderança" border="0"></a>
 </p>
 
-# Nome do projeto
+# Turnover de funcionários
 
-## Nome do grupo
+## FireData
 
 ## Integrantes: 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 1</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 2</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 3</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 4</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 5</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 6</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 7</a>
+- <a href="https://github.com/Xandebrabe">Alexandre Fonseca de Souza</a>
+- <a href="https://github.com/brun0meira">Bruno Otavio Bezerra de Meira</a> 
+- <a href="https://github.com/HallZero">Filipi Enzo Siqueira Kikuchi</a>
+- <a href="https://github.com/gaebizinha">Gabriela de Morais da Silva</a>
+- <a href="https://github.com/joaoalca">João Pedro Sartori Garcia de Alcaraz</a>
+- <a href="https://github.com/lucasconti888">Lucas Conti Pereira</a> 
+- <a href="https://github.com/sofipimazzoni">Sofia Moreiras Pimazzoni</a> 
 
 ## 📝 Descrição
 
@@ -39,10 +37,10 @@ Faça o mesmo para a documentação em formato DOCX.
 
 |--> documentos<br>
   &emsp;| --> outros <br>
-  &emsp;| T(NUMERO_DA_TURMA)_G(NUMERO_DO_GRUPO)_V(VERSÃO)_Predictive_Model_Document.pdf<br>
-  &emsp;| T(NUMERO_DA_TURMA)_G(NUMERO_DO_GRUPO)_V(VERSÃO)_Predictive_Model_Document.docx<br>
+  &emsp;| T2_G1_V1.0_Predictive_Model_Document.pdf<br>
+  &emsp;| T2_G1_V1.0_Predictive_Model_Document.docx<br>
 |--> notebooks<br>
-  &emsp;|--> T(NUMERO_DA_TURMA)_G(NUMERO_DO_GRUPO)_V(VERSÃO)_Predictive_Model_Development.ipynb<br>
+  &emsp;|--> T2_G1_V1.0_Predictive_Model_Development.ipynb<br>
 | readme.md<br>
 | license.txt
 
