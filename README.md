@@ -43,8 +43,8 @@ Faça o mesmo para a documentação em formato DOCX.
   &emsp;| T2_G1_V5.0_Predictive_Model_Document.docx<br>
   &emsp;|--> Versões anteriores<br>
 |--> Notebook<br>
-  &emsp;|--> T2_G1_V1.0_Predictive_Model_Development.ipynb<br>
-  &emsp;|--> T2_G1_V1.0_Predictive_Model_Development.py<br>
+  &emsp;|--> T2_G1_V5.0_Predictive_Model_Development.ipynb<br>
+  &emsp;|--> T2_G1_V5.0_Predictive_Model_Development.py<br>
 | readme.md<br>
 
 
@@ -102,3 +102,7 @@ Para replicação (reexecução dos códigos), o botão `Open in Colab` disponí
 Aqui estão as referências usadas no projeto:
 
 1. <https://creativecommons.org/share-your-work/>
+2. <https://jupyter.org>
+3. <https://colab.research.google.com>
+4. <https://www.google.com/sheets/about/>
+5. <https://www.canva.com>
