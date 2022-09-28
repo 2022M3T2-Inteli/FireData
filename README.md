@@ -41,7 +41,7 @@ Faça o mesmo para a documentação em formato DOCX.
 |--> documentos<br>
   &emsp;| T2_G1_V5.0_Predictive_Model_Document.pdf<br>
   &emsp;| T2_G1_V5.0_Predictive_Model_Document.docx<br>
-  &emsp;| --> Versões anteriores<br>
+  &emsp;|--> Versões anteriores<br>
     &emsp;| T2_G1_V1.0_Predictive_Model_Document.pdf<br>
     &emsp;| T2_G1_V1.0_Predictive_Model_Document.docx<br>
     &emsp;| T2_G1_V2.0_Predictive_Model_Document.pdf<br>
