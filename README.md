@@ -65,7 +65,7 @@ Para replicação (reexecução dos códigos), o botão `Open in Colab` disponí
 
 ## 🗃 Histórico de lançamentos
 
-* 0.2.1 - 12/08/2022
+* 0.0.1 - 12/08/2022
     * Entendimento do negócio
     * Entendiemnto dos dados
 
