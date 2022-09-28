@@ -39,19 +39,29 @@ Faça o mesmo para a documentação em formato DOCX.
 ```
 
 |--> documentos<br>
-  &emsp;| --> outros <br>
-  &emsp;| T2_G1_V1.0_Predictive_Model_Document.pdf<br>
-  &emsp;| T2_G1_V1.0_Predictive_Model_Document.docx<br>
-|--> notebooks<br>
+  &emsp;| T2_G1_V5.0_Predictive_Model_Document.pdf<br>
+  &emsp;| T2_G1_V5.0_Predictive_Model_Document.docx<br>
+  &emsp;| --> Versões anteriores <br>
+    &emsp;| T2_G1_V1.0_Predictive_Model_Document.pdf<br>
+    &emsp;| T2_G1_V1.0_Predictive_Model_Document.docx<br>
+    &emsp;| T2_G1_V2.0_Predictive_Model_Document.pdf<br>
+    &emsp;| T2_G1_V2.0_Predictive_Model_Document.docx<br>
+    &emsp;| T2_G1_V3.0_Predictive_Model_Document.pdf<br>
+    &emsp;| T2_G1_V3.0_Predictive_Model_Document.docx<br>
+    &emsp;| T2_G1_V4.0_Predictive_Model_Document.pdf<br>
+    &emsp;| T2_G1_V4.0_Predictive_Model_Document.docx<br>
+  
+|--> Notebook<br>
   &emsp;|--> T2_G1_V1.0_Predictive_Model_Development.ipynb<br>
+  &emsp;|--> T2_G1_V1.0_Predictive_Model_Development.py<br>
 | readme.md<br>
-| license.txt
+
 
 Dentre os arquivos presentes na raiz do projeto, definem-se:
 
 - <b>readme.md</b>: arquivo que serve como guia e explicação geral sobre o projeto (o mesmo que você está lendo agora).
 
-- <b>documentos</b>: aqui estarão todos os documentos do projeto. Há também uma pasta denominada <b>outros</b> onde estão presentes aqueles documentos complementares.
+- <b>documentos</b>: aqui estarão todos os documentos do projeto. Há também uma pasta denominada <b>Versões anteriores</b> onde estão presentes as antigas versões do documento final.
 
 - <b>notebooks</b>: todos os Jupyter Notebooks criados na plataforma Colab para desenvolvimento do projeto.
 
