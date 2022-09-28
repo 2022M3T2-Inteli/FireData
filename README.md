@@ -65,14 +65,24 @@ Para replicação (reexecução dos códigos), o botão `Open in Colab` disponí
 
 ## 🗃 Histórico de lançamentos
 
-* 0.2.1 - 25/01/2022 *
-* 0.2.0 - 15/01/2022 *
-* 0.1.1 - 08/09/2022
-    * Terceira entrega - Treinamento do modelo
-* 0.1.0 - 26/08/2022
-    * Segunda entrega - Processamento de dados
-* 0.0.1 - 12/08/2022
-    * Primeira entrega - Análise dos dados
+* 0.2.1 - 12/08/2022 *
+    * Entendimento do negócio
+    * Entendiemnto dos dados
+* 0.1.0 - 25/08/2022 *
+    * Personas
+    * Jornada do usuário
+    * Feature Engineering
+    * Atualizar a documentação
+* 0.1.1 - 08/09/2022 *
+    * Definir os modelos de avaliação
+    * Atualizar a documentação
+* 0.2.0 - 23/09/2022 *
+    * Comparação dos modelos
+    * Atualizar a documentação
+* 0.2.1 - 06/10/2022 *
+    * Conclusão da inteligência artificial
+    * Conclusão do documento
+    * Apresentação final para o cliente
 
 
 ## 📋 Licença/License
