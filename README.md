@@ -38,7 +38,7 @@ T4_G5_V01_Predictive_Model_Document.pdf
 Faça o mesmo para a documentação em formato DOCX.
 ```
 
-|--> documentos<br>
+|--> Documentação<br>
   &emsp;| T2_G1_V5.0_Predictive_Model_Document.pdf<br>
   &emsp;| T2_G1_V5.0_Predictive_Model_Document.docx<br>
   &emsp;|--> Versões anteriores<br>
