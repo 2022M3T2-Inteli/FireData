@@ -43,7 +43,7 @@ Faça o mesmo para a documentação em formato DOCX.
   &emsp;| T2_G1_V5.0_Predictive_Model_Document.docx<br>
   &emsp;|--> Versões anteriores<br>
     &emsp;|--> Apresentações<br>
-    &emsp;|--> DOcumentação<br>
+    &emsp;|--> Documentação<br>
 |--> Notebook<br>
   &emsp;|--> T2_G1_V5.0_Predictive_Model_Development.ipynb<br>
   &emsp;|--> T2_G1_V5.0_Predictive_Model_Development.py<br>
