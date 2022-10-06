@@ -94,3 +94,6 @@ Aqui estão as referências usadas no projeto:
 3. <https://colab.research.google.com>
 4. <https://www.google.com/sheets/about/>
 5. <https://www.canva.com>
+6. <http://public.dhe.ibm.com/software/analytics/spss/documentation/modeler/14.2/en/CRISP_DM.pdf>
+7. <https://integrada.minhabiblioteca.com.br/books/9788521637509>
+8. <https://integrada.minhabiblioteca.com.br/books/9788595155473>
