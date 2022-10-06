@@ -18,25 +18,11 @@
 - <a href="https://github.com/sofipimazzoni">Sofia Moreiras Pimazzoni</a> 
 
 ## 📝 Descrição
-
-Curta descrição sobre o que o seu projeto faz (problema a ser resolvido e solução proposta).
 A Everymind é uma empresa certificada SalesForce que está preocupada com sua alta taxa de Turnover e possui dificuldades em analisar os motivos responsáveis pela alta rotatividade. Neste contexto, a empresa forneceu dados referentes aos colaboradores (salário, cargo, data de entrada/saída, etc.) para que possamos desenvolver um modelo preditivo de classificação capaz de identificar quais funcionários têm tendências a sair ou permanecer no trabalho.
  A solução proposta deverá ser usada como complementação do sistema atual pelo setor de RH, facilitando o processo, e como uma ferramenta de análise que possibilite a identificação de eventuais fatores que contribuem para uma demissão a fim de diagnosticá-los e contribuir para a tomada da melhor decisão possível. Consequentemente, isso será benéfico para a Everymind pois é melhor para uma empresa manter os funcionários a longo prazo. Dessa forma, serão usados dois critérios: a taxa de precisão do algoritmo e a taxa de Turnover da empresa para avaliar o desempenho da solução.
 
 
 ## 📁 Estrutura de pastas
-
-```
-Alunos inteli (remover essa observação do readme.md após leitura e execução):
-
-Supondo que você é da Turma 4 e Projeto 5, substitua:
-
-T(NUMERO_DA_TURMA)_G(NUMERO_DO_GRUPO)_V(VERSÃO)_Predictive_Model_Document.pdf
-por
-T4_G5_V01_Predictive_Model_Document.pdf
-
-Faça o mesmo para a documentação em formato DOCX.
-```
 
 |--> Documentação<br>
   &emsp;| T2_G1_V5.0_Predictive_Model_Document.pdf<br>
