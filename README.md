@@ -24,16 +24,22 @@ A Everymind é uma empresa certificada SalesForce que está preocupada com sua a
 
 ## 📁 Estrutura de pastas
 
+
 |--> Documentação<br>
+  &emsp;| antigos<br>
+  &emsp;| outros<br>
   &emsp;| T2_G1_V5.0_Predictive_Model_Document.pdf<br>
   &emsp;| T2_G1_V5.0_Predictive_Model_Document.docx<br>
   &emsp;|--> Versões anteriores<br>
     &emsp;&emsp;|--> Apresentações<br>
     &emsp;&emsp;|--> Documentação<br>
 |--> Notebook<br>
+  &emsp;|--> outros<br>
   &emsp;|--> T2_G1_V5.0_Predictive_Model_Development.ipynb<br>
   &emsp;|--> T2_G1_V5.0_Predictive_Model_Development.py<br>
 | readme.md<br>
+| liscense.txt<br>
+
 
 
 Dentre os arquivos presentes na raiz do projeto, definem-se:
@@ -53,9 +59,18 @@ Para replicação (reexecução dos códigos), o botão `Open in Colab` disponí
 
 ## 🗃 Histórico de lançamentos
 
-* 0.0.1 - 12/08/2022
-    * Entendimento do negócio
-    * Entendiemnto dos dados
+* 0.2.1 - 06/10/2022 
+    * Conclusão da inteligência artificial
+    * Conclusão do documento
+    * Apresentação final para o cliente
+    
+* 0.2.0 - 23/09/2022 
+    * Comparação dos modelos
+    * Atualizar a documentação
+
+* 0.1.1 - 08/09/2022 
+    * Definir os modelos de avaliação
+    * Atualizar a documentação
 
 
 * 0.1.0 - 25/08/2022
@@ -64,26 +79,15 @@ Para replicação (reexecução dos códigos), o botão `Open in Colab` disponí
     * Feature Engineering
     * Atualizar a documentação
 
+* 0.0.1 - 12/08/2022
+    * Entendimento do negócio
+    * Entendiemnto dos dados
 
-* 0.1.1 - 08/09/2022 
-    * Definir os modelos de avaliação
-    * Atualizar a documentação
-
-
-* 0.2.0 - 23/09/2022 
-    * Comparação dos modelos
-    * Atualizar a documentação
-
-
-* 0.2.1 - 06/10/2022 
-    * Conclusão da inteligência artificial
-    * Conclusão do documento
-    * Apresentação final para o cliente
 
 
 ## 📋 Licença/License
 
-<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Spidus/Teste_Final_1">MODELO GIT INTELI</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.yggbrasil.com.br/vr">Inteli, <a href="https://github.com/Xandebrabe">Alexandre Fonseca de Souza</a>, <a href="https://github.com/brun0meira">Bruno Otavio Bezerra de Meira</a> , <a href="https://github.com/HallZero">Filipi Enzo Siqueira Kikuchi</a>, <a href="https://github.com/gaebizinha">Gabriela de Morais da Silva</a>, <a href="https://github.com/joaoalca">João Pedro Sartori Garcia de Alcaraz</a>, <a href="https://github.com/lucasconti888">Lucas Conti Pereira</a> , <a href="https://github.com/sofipimazzoni">Sofia Moreiras Pimazzoni</a> </a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
+<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Spidus/Teste_Final_1">Turnover de funcionários</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.yggbrasil.com.br/vr">Inteli, <a href="https://github.com/Xandebrabe">Alexandre Fonseca de Souza</a>, <a href="https://github.com/brun0meira">Bruno Otavio Bezerra de Meira</a> , <a href="https://github.com/HallZero">Filipi Enzo Siqueira Kikuchi</a>, <a href="https://github.com/gaebizinha">Gabriela de Morais da Silva</a>, <a href="https://github.com/joaoalca">João Pedro Sartori Garcia de Alcaraz</a>, <a href="https://github.com/lucasconti888">Lucas Conti Pereira</a> , <a href="https://github.com/sofipimazzoni">Sofia Moreiras Pimazzoni</a> </a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
 
 ## 🎓 Referências
 
