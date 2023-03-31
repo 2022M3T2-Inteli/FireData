@@ -14,7 +14,7 @@
 - <a href="https://github.com/HallZero">Filipi Enzo Siqueira Kikuchi</a>
 - <a href="https://github.com/gaebizinha">Gabriela de Morais da Silva</a>
 - <a href="https://github.com/joaoalca">João Pedro Sartori Garcia de Alcaraz</a>
-- <a href="https://github.com/lucasconti888">Lucas Conti Pereira</a> 
+- <a href="https://github.com/lucasconti888">Lucas Conti Pereira.</a> 
 - <a href="https://github.com/sofipimazzoni">Sofia Moreiras Pimazzoni</a> 
 
 ## 📝 Descrição
